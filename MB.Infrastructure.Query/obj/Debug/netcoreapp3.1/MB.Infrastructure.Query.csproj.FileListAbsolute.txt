@@ -1,0 +1,74 @@
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.deps.json
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\01_Framework.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Domain.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\01_Framework.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csprojAssemblyReference.cache
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.AssemblyInfoInputs.cache
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.AssemblyInfo.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.CopyComplete
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.deps.json
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\01_Framework.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Domain.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\01_Framework.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.AssemblyReference.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.AssemblyInfoInputs.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.AssemblyInfo.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.CopyComplete
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.deps.json
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\01_Framework.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Domain.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\01_Framework.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.AssemblyReference.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.AssemblyInfoInputs.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.AssemblyInfo.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.CoreCompileInputs.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.CopyComplete
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb
+E:\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.deps.json
+E:\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+E:\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb
+E:\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\01_Framework.dll
+E:\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+E:\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Domain.dll
+E:\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+E:\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
+E:\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\01_Framework.pdb
+E:\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+E:\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+E:\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.AssemblyReference.cache
+E:\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.GeneratedMSBuildEditorConfig.editorconfig
+E:\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.AssemblyInfoInputs.cache
+E:\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.AssemblyInfo.cs
+E:\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.CoreCompileInputs.cache
+E:\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.CopyComplete
+E:\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+E:\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb

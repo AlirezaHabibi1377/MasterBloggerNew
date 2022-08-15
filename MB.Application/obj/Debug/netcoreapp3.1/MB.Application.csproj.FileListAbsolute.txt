@@ -1,0 +1,72 @@
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.deps.json
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\01_Framework.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\01_Framework.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csprojAssemblyReference.cache
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfoInputs.cache
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfo.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CopyComplete
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.deps.json
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\01_Framework.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\01_Framework.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.AssemblyReference.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfoInputs.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfo.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CopyComplete
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.deps.json
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\01_Framework.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\01_Framework.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.AssemblyReference.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfoInputs.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfo.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CoreCompileInputs.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CopyComplete
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.pdb
+E:\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.deps.json
+E:\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.dll
+E:\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.pdb
+E:\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\01_Framework.dll
+E:\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+E:\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.dll
+E:\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+E:\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+E:\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+E:\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
+E:\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\01_Framework.pdb
+E:\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.AssemblyReference.cache
+E:\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfoInputs.cache
+E:\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfo.cs
+E:\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CoreCompileInputs.cache
+E:\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CopyComplete
+E:\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.dll
+E:\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.pdb

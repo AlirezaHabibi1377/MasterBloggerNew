@@ -1,0 +1,377 @@
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.exe
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.deps.json
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.runtimeconfig.json
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.runtimeconfig.dev.json
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.Views.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.Views.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\01_Framework.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Domain.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Core.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Core.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\01_Framework.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.csprojAssemblyReference.cache
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\staticwebassets\MB.Presentation.MVCCore.StaticWebAssets.Manifest.cache
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\staticwebassets\MB.Presentation.MVCCore.StaticWebAssets.xml
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorAssemblyInfo.cache
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorAssemblyInfo.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.AssemblyInfoInputs.cache
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.AssemblyInfo.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.TagHelpers.input.cache
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.TagHelpers.output.cache
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorCoreGenerate.cache
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Create.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Edit.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\List.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleManagement\Create.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleManagement\Edit.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleManagement\List.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\CommentManagement\List.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Error.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Index.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Privacy.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Shared\_Layout.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\_ViewImports.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\_ViewStart.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\ArticleDetails.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorTargetAssemblyInfo.cache
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorTargetAssemblyInfo.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.Views.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.csproj.CopyComplete
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.exe
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.deps.json
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.runtimeconfig.json
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.runtimeconfig.dev.json
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.Views.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.Views.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\01_Framework.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Domain.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Core.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Core.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\01_Framework.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.csproj.AssemblyReference.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.AssemblyInfoInputs.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.AssemblyInfo.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorAssemblyInfo.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorAssemblyInfo.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\staticwebassets\MB.Presentation.MVCCore.StaticWebAssets.Manifest.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\staticwebassets\MB.Presentation.MVCCore.StaticWebAssets.xml
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\MB.Presentation.MVCCore.styles.css
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.TagHelpers.input.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.TagHelpers.output.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorCoreGenerate.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Create.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Edit.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\List.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleManagement\Create.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleManagement\Edit.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleManagement\List.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\CommentManagement\List.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Error.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Index.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Privacy.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Shared\_Layout.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\_ViewImports.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\_ViewStart.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\ArticleDetails.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorTargetAssemblyInfo.cache
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorTargetAssemblyInfo.cs
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.Views.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.csproj.CopyComplete
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.dll
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.pdb
+D:\Asp.Net Core _ Very important\09-5-master-blogger-source\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.genruntimeconfig.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.exe
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.deps.json
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.runtimeconfig.json
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.runtimeconfig.dev.json
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.Views.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.Views.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\01_Framework.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Domain.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Core.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Core.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\01_Framework.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.csproj.AssemblyReference.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.AssemblyInfoInputs.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.AssemblyInfo.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.csproj.CoreCompileInputs.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.MvcApplicationPartsAssemblyInfo.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorAssemblyInfo.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorAssemblyInfo.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\staticwebassets\MB.Presentation.MVCCore.StaticWebAssets.Manifest.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\staticwebassets\MB.Presentation.MVCCore.StaticWebAssets.xml
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\MB.Presentation.MVCCore.styles.css
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.TagHelpers.input.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.TagHelpers.output.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorCoreGenerate.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Create.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Edit.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\List.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleManagement\Create.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleManagement\Edit.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleManagement\List.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\CommentManagement\List.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Error.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Index.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Privacy.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Shared\_Layout.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\_ViewImports.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\_ViewStart.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\ArticleDetails.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorTargetAssemblyInfo.cache
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorTargetAssemblyInfo.cs
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.Views.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.csproj.CopyComplete
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.dll
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.pdb
+D:\AllProject_Asp.NET_2019\me\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.genruntimeconfig.cache
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\appsettings.json
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.exe
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.deps.json
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.runtimeconfig.json
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.runtimeconfig.dev.json
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.pdb
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.Views.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Presentation.MVCCore.Views.pdb
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\01_Framework.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Domain.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Core.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Core.pdb
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\01_Framework.pdb
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Application.pdb
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
+E:\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.csproj.AssemblyReference.cache
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.AssemblyInfoInputs.cache
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.AssemblyInfo.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.csproj.CoreCompileInputs.cache
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.MvcApplicationPartsAssemblyInfo.cache
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorAssemblyInfo.cache
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorAssemblyInfo.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\staticwebassets\MB.Presentation.MVCCore.StaticWebAssets.Manifest.cache
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\staticwebassets\MB.Presentation.MVCCore.StaticWebAssets.xml
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\MB.Presentation.MVCCore.styles.css
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.TagHelpers.input.cache
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.TagHelpers.output.cache
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorCoreGenerate.cache
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Create.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Edit.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\List.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleManagement\Create.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleManagement\Edit.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\ArticleManagement\List.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\CommentManagement\List.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Error.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Index.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Privacy.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Shared\_Layout.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\_ViewImports.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Areas\Administrator\Pages\_ViewStart.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\ArticleDetails.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorTargetAssemblyInfo.cache
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.RazorTargetAssemblyInfo.cs
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.Views.pdb
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.csproj.CopyComplete
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.dll
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.pdb
+E:\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\netcoreapp3.1\MB.Presentation.MVCCore.genruntimeconfig.cache
